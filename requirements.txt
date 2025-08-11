@@ -3,4 +3,5 @@ uvicorn
 requests
 pydantic
 pillow
+PyMuPDF
 # ...other libraries
