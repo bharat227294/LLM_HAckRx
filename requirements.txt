@@ -11,7 +11,8 @@ sentence-transformers
 
 
 nvidia-cusparselt-cu12
- mpmath urllib3
+ mpmath
+ urllib3
  typing-extensions
  tqdm
  threadpoolctl 
