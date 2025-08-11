@@ -6,5 +6,5 @@ pillow
 PyMuPDF
 python-docx
 sentence-transformers
-faiss
+faiss-cpu
 
