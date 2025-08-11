@@ -4,4 +4,6 @@ requests
 pydantic
 pillow
 PyMuPDF
+python-docx
+
 # ...other libraries
